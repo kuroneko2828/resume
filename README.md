@@ -76,6 +76,14 @@
 - Terraformを用いたマイクロサービスのインフラ構築
 - 組織効力感向上のための施策立案・実行 (非エンジニアリング業務)
 
+## 副業経験
+
+### 医療法人青嶺会 木の香クリニック | 2025年9月 - 現在
+#### 担当業務
+- GASを用いた各種業務の効率化・自動化
+- 蓄積データの可視化
+- データ・AI利用に関するコンサルティング
+
 ---
 
 
@@ -90,8 +98,8 @@
 
 # 資格・認定
 
-- 基本情報技術者試験 合格
-- 応用情報技術者試験 合格
+- [基本情報技術者試験](https://www.ipa.go.jp/shiken/kubun/fe.html) 合格
+- [応用情報技術者試験](https://www.ipa.go.jp/shiken/kubun/ap.html) 合格
 - [数独実力テスト](https://sudokujapan.com/about-proficiency-test/) 1級
 - [謎解き能力検定](https://www.nazoken.com/) 3級
 
@@ -101,7 +109,8 @@
 
 ## コミュニティ運営
 
-- **[TechBull](https://techbull.cloud/)
+- [TechBull](https://techbull.cloud/)
+- [そふと・こみっと](https://soft-commit.connpass.com/)
 
 ## インタビュー記事
 
