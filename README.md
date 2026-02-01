@@ -110,7 +110,7 @@
 ## コミュニティ運営
 
 - [TechBull](https://techbull.cloud/)
-- [そふと・こみっと](https://soft-commit.connpass.com/)
+- [そふと・こみっと](https://soft-commit.connpass.com/) (立ち上げメンバー)
 
 ## インタビュー記事
 
